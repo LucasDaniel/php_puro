@@ -1,0 +1,17 @@
+
+/**
+ * Modifica a class 'jumbotron' do bootstrap para 50% de largura e centraliza na tela
+ */
+.jumbotron {
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/**
+ * Modifica a class 'form-control' do bootstrap para 5px de margem abaixo
+ */
+.form-control {
+    margin-bottom: 5px; 
+}
